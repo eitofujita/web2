@@ -8,11 +8,10 @@ body {
 }
 
 .logo img {
-    width: 100px; /* 必要に応じてサイズを調整 */
-    height: 100px; /* 正方形にすることで円形にできます */
-    border-radius: 50%; /* 画像を円形にする */
-    object-fit: cover; /* 画像を枠に合わせてトリミング */
-}
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%;
+    object-fit: cover; 
 
 
 .menu {
